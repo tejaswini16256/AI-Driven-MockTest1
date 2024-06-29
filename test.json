@@ -1,0 +1,25 @@
+[
+    {
+      "id": "01",
+      "question": "Question text goes here?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctAnswer": "Correct option (A, B, C, or D)",
+      "topicName": "Topic name"
+    },
+    {
+      "question": "Another question?",
+      "options": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "correctAnswer": "Correct option (A, B, C, or D)",
+      "topicName": "Topic name"
+    }
+  ]
